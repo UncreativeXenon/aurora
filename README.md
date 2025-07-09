@@ -40,6 +40,11 @@
 3. In Aurora's Home, Press `[B]` on your Xbox 360 Controller > Skin > Change > [The skin].
 4. Go back to Aurora's Home, Press `[Back]` > Restart.
 
+## 🙋 FAQ
+
+- Q: **_"How can I use Catppuccin Logo as Splash Screen?"_**\
+  A: In Aurora's Home, Press `[B]` on your Xbox 360 Controller > Skin > Options > `[*] Alternate Splash Screen`.
+
 ## 💝 Thanks to
 
 - [UncreativeXenon](https://github.com/UncreativeXenon)
