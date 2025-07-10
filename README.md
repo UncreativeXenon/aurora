@@ -40,6 +40,10 @@
 3. In Aurora's Home, Press `[B]` on your Xbox 360 Controller > Skin > Change > [The skin].
 4. Go back to Aurora's Home, Press `[Back]` > Restart.
 
+## Contributing / Editing `.xzp` Files
+
+Want to make your own theme or tweak an existing one? Check out this [editing guide](./EDITING_XZP_GUIDE.md).
+
 ## 🙋 FAQ
 
 - Q: **_"How can I use Catppuccin Logo as Splash Screen?"_**\
