@@ -11,9 +11,9 @@ This guide provides step-by-step instructions for extracting, editing, and rebui
 
 - **Required Tools**:
   - **Xbox 360 SDK** — Cannot be directly linked, but can be found by searching:  
-    `xbox 360 sdk 21256.3 site:archive.org`
-  - **[XZP TOOL v2.0](https://digiex.net/threads/xzp-tool-v2-0-browse-edit-xbox-360-zxp-files.15990/)** — For extracting and rebuilding `.xzp` files
-  - **[AuroraElements (XUI Extensions)](http://phoenix.xboxunity.net/downloads/AuroraElements%20(XUI%20Extensions).rar)** — Required to work with Aurora's extended XUI elements
+    `xbox 360 sdk 21256.3 site:archive.org`.
+  - **[XZP TOOL v2.0](https://digiex.net/threads/xzp-tool-v2-0-browse-edit-xbox-360-zxp-files.15990/)** — For extracting and rebuilding `.xzp` files.
+  - **[AuroraElements (XUI Extensions)](http://phoenix.xboxunity.net/downloads/AuroraElements%20(XUI%20Extensions).rar)** — Required to work with Aurora's extended XUI elements.
 
 ## 📂 Extracting a `.xzp` File
 
@@ -23,13 +23,13 @@ This guide provides step-by-step instructions for extracting, editing, and rebui
 
 ### Common extracted file types:
 
-- `.xur` — Aurora's UI layout and theme files
-- `.png`, `.jpg`, `.dds` — Image assets used in the theme
+- `.xur` — Aurora's UI layout and theme files.
+- `.png`, `.jpg`, `.dds` — Image assets used in the theme.
 
 ## 🔍 Extracting `.xur` Files
 
 1. Open **Xbox UI Authoring Tool** (`XuiTool.exe`), typically found at:  
-   `C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32`
+   `C:\Program Files (x86)\Microsoft Xbox 360 SDK\bin\win32`.
 2. Go to **Tools > Options... > General**, then under **XML Extensions**, click **Change...**, followed by **Add...**.  
    Locate your `AuroraElements` folder, select `AuroraElements.xml`, and click **OK**. Restart the UI Tool afterward.
 3. Open a `.xur` file via **File > Open**.  
@@ -43,9 +43,9 @@ This guide provides step-by-step instructions for extracting, editing, and rebui
 2. Look for ARGB color values — these begin with `0xff` followed by six hexadecimal digits (e.g., `0xffcad3f5`).  
    > ⚠️ These values are stored as **ARGB**, meaning the Alpha channel comes first, followed by Red, Green, and Blue.
 3. Edit colors or other attributes as needed. Since `.xui` files lack visual references, try:
-   - Searching for known hex color codes
-   - Replacing multiple color values with a unique marker (e.g., `0xff123456`) for easier identification
-   - Rebuilding and testing until you find the relevant element
+   - Searching for known hex color codes.
+   - Replacing multiple color values with a unique marker (e.g., `0xff123456`) for easier identification.
+   - Rebuilding and testing until you find the relevant element.
 
 ## 📦 Rebuilding `.xur` Files from `.xui`
 
@@ -67,9 +67,9 @@ This guide provides step-by-step instructions for extracting, editing, and rebui
 #### ✅ Option 2: Manual Add
 
 - Click **Add**:
-  - **File to add** — Adds a file to the archive root
-  - **Folder to add** — Adds an entire folder (e.g., `Images/`)
-- Confirm replacements when prompted
+  - **File to add** — Adds a file to the archive root.
+  - **Folder to add** — Adds an entire folder (e.g., `Images/`).
+- Confirm replacements when prompted.
 
 ## 🧪 Tips
 
