@@ -35,7 +35,7 @@
 
 ## Usage
 
-1. Download the flavor & color of your choice from [Releases](https://github.com/catppuccin/aurora/releases).
+1. Download the flavor & color of your choice from the [themes](./themes) directory.
 2. Move the downloaded file under `./[Aurora]/Skins/`.
 3. In Aurora's Home, Press `[B]` on your Xbox 360 Controller > Skin > Change > [The skin].
 4. Go back to Aurora's Home, Press `[Back]` > Restart.
