@@ -79,6 +79,6 @@ This guide provides step-by-step instructions for extracting, editing, and rebui
 
 ## 📎 Credits & Resources
 
-- [Phoenix for Aurora](http://phoenix.xboxunity.net/)
-- [How to use XuiTool to mod/make Aurora themes. by S0DA – RealModScene.com (via archive.org)](https://web.archive.org/web/20250523185254/https://www.realmodscene.com/index.php?/topic/22763-how-to-use-xuitool-to-modmake-aurora-themes/)
-- [XZP Tool v2.0 – Digiex](https://digiex.net/threads/xzp-tool-v2-0-browse-edit-xbox-360-zxp-files.15990/)
+- [Aurora, by Phoenix](http://phoenix.xboxunity.net/)
+- [How to use XuiTool to mod/make Aurora themes, by S0DA – RealModScene.com (archive.org)](https://web.archive.org/web/20250523185254/https://www.realmodscene.com/index.php?/topic/22763-how-to-use-xuitool-to-modmake-aurora-themes/)
+- [XZP Tool v2.0, by RGHdemon (Based on XZP Tool, by Anonymous) – Digiex](https://digiex.net/threads/xzp-tool-v2-0-browse-edit-xbox-360-zxp-files.15990/)
